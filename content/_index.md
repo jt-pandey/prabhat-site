@@ -10,23 +10,42 @@ header_button_more:
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
-# The Future - Today!
+# Sign Up Today To Adopt a Pet
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+You can adopt a pet today and help these homeless animals find a loving and caring home. Just click on this link here: [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) pet adoption counselling session session.
 
 ---
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a pet adoption counselling session.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
 ---
 
-# Prototype
+# Welcome to Our Non-Profit Pet Adoption Site!
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+At [Our Non-Profit Pet Adoption Site](https://pet-adoption-pbl.netlify.app), we are dedicated to finding loving homes for adorable animals in need. Our mission is to connect these wonderful pets with caring individuals or families who are ready to provide them with a forever home.
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+## Why Adopt a Pet?
+
+Adopting a pet can be a truly rewarding experience. By opening your heart and home to a furry friend, you not only gain a loyal companion but also contribute to the well-being of animals in your community. Here are some reasons why adopting a pet is a fantastic choice:
+
+- **Companionship:** Pets offer unwavering love, companionship, and emotional support. They become cherished members of the family, bringing joy and happiness to your everyday life.
+
+- **Save a Life:** By adopting, you provide a second chance to an animal in need. Many pets are rescued from shelters or difficult situations, and giving them a loving home can make a world of difference.
+
+To ensure the well-being of your new furry friend, it's essential to learn about proper animal care. Here are some helpful resources on how to take care of animals:
+
+- [Basic Pet Care Guide](https://www.example.com/pet-care-guide): Learn about essential aspects of pet care, including feeding, grooming, exercise, and veterinary care.
+
+- [Training Tips](https://www.example.com/pet-training-tips): Discover effective training techniques to help your pet become well-behaved and obedient.
+
+- [Health and Wellness](https://www.example.com/pet-health): Find valuable information on maintaining your pet's health, recognizing common illnesses, and preventive measures.
+
+By providing a loving home and responsible care, you can make a significant positive impact on the life of an animal. Start your journey of pet adoption with us today!
+
+
+![Prototype Work](images/prototype.avif) <!-- https://www.pexels.com/search/product%20testing/ -->
 
 Check out this sweet preview. Impressed much, are you?
 
@@ -34,17 +53,10 @@ Check out this sweet preview. Impressed much, are you?
 
 # Imprint & Privacy Policy
 
-Let's keep it simple. This is our contact information:
+E-mail: me@jt-pandey.tk
+Phone: 123-456-789
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
-
-E-mail: jane@doe.net
-Phone: 580-689-0577
-
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+We respect your privacy and are committed to protecting any personal information you provide on our non-profit pet adoption site. We will not share or sell your data to third parties without your explicit consent.
 
 ---
 
