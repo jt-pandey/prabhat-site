@@ -1,6 +1,6 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "Adopt a Pet Today"
+header_tagline_paragraph: "Adopting pets brings companionship, improves health, teaches responsibility, provides stress relief, establishes routine, promotes social connection, and offers unconditional love."
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
